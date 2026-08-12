@@ -1,0 +1,19 @@
+# Car Washap
+
+> Hållbar handtvätt i Borlänge vid Kupolen köpcentrum. Endast 5–10 liter vatten per tvätt – cirka 95 % mindre vatten än traditionell biltvätt. Boka online medan du shoppar.
+
+Car Washap erbjuder professionell handtvätt och bilrekond med fokus på miljö, tid och kvalitet. Stationer placeras vid köpcentrum så att kunder kan lämna bilen medan de handlar eller tränar.
+
+## Pages
+
+- [Startsida](/): Översikt av tjänster, miljöfördelar och bokning.
+- [Priser](/priser): Prislista för utvändig och invändig handtvätt samt tilläggstjänster.
+- [Boka tid](/boka): Online-bokning av tvätt vid Kupolen, Borlänge.
+- [Om oss](/om): Bakgrund, värderingar och vision för Car Washap.
+- [Press](/press): Pressmaterial, logotyper och mediakontakter.
+- [Biltvätt Borlänge](/biltvatt-borlange): Lokal landningssida för biltvätt i Borlänge.
+- [Biltvätt Kupolen](/biltvatt-kupolen): Landningssida för stationen vid Kupolen.
+
+## Optional
+
+- [Investor Relations (EN)](/investors): US expansion opportunity och hållbarhetsdata för investerare.
